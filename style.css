@@ -31,3 +31,9 @@ h4
 .instructionImage{
    display: inline-block; 
 }
+video{
+   background: url('gameConsole.png');
+   background-size: cover;
+   background-position: center;
+   padding: 25px;
+}
